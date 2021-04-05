@@ -262,6 +262,7 @@ void dijkstra(Station* station_so,Station *destinatation)
         else
         {
             distances_par_rapport_a_so.insert(make_pair(elem,0));///la station So est à une distance de 0 d'elle même
+            //sisi
 
 
         }
