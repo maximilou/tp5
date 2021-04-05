@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616078613 source:c:\users\maxly\documents\caca\tp2_graphe_2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<queue>
+	<stack>
+	<map>
+	<bits/stdc++.h>
+	<iterator>
+
